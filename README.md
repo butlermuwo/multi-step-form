@@ -1,6 +1,6 @@
 # Multi-step Form
 
-This is a test on creating a Multi-step form page in Vue JS.
+This is a Multi-step form page in Vue JS.
 
 ## Project Setup
 
